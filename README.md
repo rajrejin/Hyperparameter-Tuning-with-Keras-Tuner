@@ -1,1 +1,1 @@
-# Hyperparameter-Tuning-with-Keras-Tuner
+This project focuses on finding the optimal hyper parameters of a keras model using Keras Tuner. Done as part of coursera guided project.
