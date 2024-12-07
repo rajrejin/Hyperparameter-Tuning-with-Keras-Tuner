@@ -1,1 +1,2 @@
-This project focuses on finding the optimal hyper parameters of a keras model using Keras Tuner. Done as part of coursera guided project.
+* This project focuses on finding the optimal hyper parameters of a keras model using Keras Tuner.
+* The dataset used is Fashion Mnist dataset
